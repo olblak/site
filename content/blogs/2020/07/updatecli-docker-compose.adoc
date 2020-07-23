@@ -7,7 +7,6 @@ draft : false
 tags : ["Continuous Deployment", "Docker", "gitOps", "YAML"]
 categories : ["Infrastructure"]
 ---
-:toc: right
 
 = Automate Docker compose files using Updatecli
 
