@@ -1,5 +1,5 @@
 baseurl = "https://www.olblak.com"
-title = "Olblak"
+title = "HomePage"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -52,17 +52,18 @@ pygmentscodefencesguesssyntax = true
     url = "https://www.linkedin.com/in/overnin/"
 
 # Menu links
-#[[menu.main]]
-#    name = "Blog"
-#    weight = 1
-#    url  = "/blogs/"
-    
 [[menu.main]]
-    name = "About"
+    name = "Blog"
     weight = 2
-    url  = "/about"
+    url  = "/blogs/"
+
 
 [[menu.main]]
     name = "Contact"
     weight = 3
     url  = "/contact"
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url  = "/about"
