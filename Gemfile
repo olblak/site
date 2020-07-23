@@ -1,2 +1,2 @@
-source ‘https://rubygems.org’
-gem ‘asciidoctor’
+source 'https://rubygems.org'
+gem 'asciidoctor'
