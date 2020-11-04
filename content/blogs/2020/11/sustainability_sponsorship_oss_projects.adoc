@@ -94,6 +94,6 @@ I usually prefer sponsorship contracts that are automatically renewed yearly and
 
 ## Conclusion
 
-The Jenkins project has up to 10 years old sponsors and infrastructure evolved a lot since then. Sponsoring companies aren’t evils, many things would not have been possible without them, but they aren’t angels neither. Each sponsorship has an associated cost that you'll to pay either today or tomorrow. You’ll better have to identify it today than tomorrow.
+The Jenkins project has up to 10 years old sponsors and infrastructure evolved a lot since then. Sponsoring companies aren’t evils, many things would not have been possible without them, but they aren’t angels neither. Each sponsorship has an associated hidden cost that you'll have to pay either today or tomorrow. You’ll better have to identify it today than tomorrow.
 
 Working on the sustainability of an open-source project like Jenkins is challenging, sometimes exhausting, but rewarding.
