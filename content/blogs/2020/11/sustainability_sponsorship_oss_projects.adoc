@@ -15,7 +15,7 @@ Running an open-source project has different challenges than running a classical
 
 Because it free, nobody is paying for your project. You build a community of people interested to mutualize effort to solve a common problem.
 
-If your project is growing that's great news for the project, but not for your wallet.
+If a project is growing that's great news for the project, but not for his wallet.
 The project will probably need more services like a website, chat, ticketing system, etc... to grow even further.
 But again, it's free nobody is paying for it so who's gonna pay for that growth?
 
@@ -43,9 +43,9 @@ They are different ways to highlight sponsors and I usually prefer to do it whil
 The Jenkins project infrastructure is an open infrastructure project, everybody can participate, basically almost everything is public. 
 Public weekly meetings, public Git repositories, public discussion, etc
 
-So I rarely directly promote sponsors but instead I regularly talk about them in our day to day operation. And when a sponsor from time to time asks us how we use their service, I usually reuse some documentation that I wrote.
+So I rarely directly promote sponsors but instead I regularly talk about their services in our day to day operation. And when a sponsor from time to time asks us how we use their services, I usually reuse documentation written for those.
 
-IMHO, It's usually a good sign if we don't talk about services that we use on a day to day basis because it means that it does the work :) 
+IMHO, It's usually a good sign if we don't talk about sponsored services that we daily used because it means that it does the work :)
 
 Also kind reminder, as with every agreement between a group of people, you still can refuse things that you are not comfortable with. Otherwise, it wouldn't be an agreement. 
 A recent example of that was Docker asking in their sponsoring plan to explicitly document that the docker daemon is required to run images from Dockerhub.
