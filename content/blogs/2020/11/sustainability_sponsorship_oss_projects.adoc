@@ -45,7 +45,7 @@ Public weekly meetings, public Git repositories, public discussion, etc
 
 So I rarely directly promote sponsors but instead I regularly talk about their services in our day to day operation. And when a sponsor from time to time asks us how we use their services, I usually reuse documentation written for those.
 
-IMHO, It's usually a good sign if we don't talk about sponsored services that we daily used because it means that it does the work :)
+IMHO, It's usually a good sign if we don't talk about a sponsored service that we daily used because it means that it does the work :)
 
 Also kind reminder, as with every agreement between a group of people, you still can refuse things that you are not comfortable with. Otherwise, it wouldn't be an agreement. 
 A recent example of that was Docker asking in their sponsoring plan to explicitly document that the docker daemon is required to run images from Dockerhub.
