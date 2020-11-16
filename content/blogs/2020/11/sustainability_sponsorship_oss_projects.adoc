@@ -1,0 +1,97 @@
+---
+title: Sustainability sponsorship of OSS projects
+type: posts
+date : 2020-11-16
+draft : false
+tags : ["Sponsorship", "sustainability", "Governance","OSS"]
+categories : ["OSS"]
+---
+
+= Sustainability sponsorship of OSS projects
+
+They are as many different open-source projects as ways to manage them.
+Running an open-source project has different challenges than running a classical company even though it shares the same constraints.
+
+Because it free, nobody is paying for your project. You build a community of people interested to mutualize effort to solve a common problem.
+
+If a project is growing that's great news for the project, but not for his wallet.
+The project will probably need more services like a website, chat, ticketing system, etc... to grow even further.
+But again, it's free nobody is paying for it so who's gonna pay for that growth?
+
+* Project contributors, who allocate time for the project to maintain services?
+* Project contributors, who pay for services?
+* Companies who sponsor the project by giving money, allowing their employees to work on it, or by giving free access to their offering? 
+
+For the Jenkins infrastructure project, it's a bit of all of those.
+And I want to talk more specifically about the different kinds of sponsorship from companies.
+
+Over the past year, I had to spend a significant amount of my time finding and replacing sponsors on the Jenkins infrastructure project.
+
+Each Jenkins infrastructure sponsors have different kinds of conditions in terms of marketing, offering, period, etc.
+
+== Marketing:
+
+"Sponsor ask you to promote their product" 
+
+Nowadays this condition is pretty common from sponsors, and it means different things to different people, highlighting a logo, writing blog posts, talking during events, etc.
+
+It's a sad trend but often the OSS sponsoring budget comes from the marketing department. So instead of asking you to pay a monthly fee, they ask you to spend time promoting their product which is not necessarily worthwhile I agree.
+If you are saving 60$ per month, that's probably enough to list a logo on your website but I wouldn't spend the same amount of time as for the companies sponsoring >10000$ per month.
+
+They are different ways to highlight sponsors and I usually prefer to do it while I am talking about the project.
+The Jenkins project infrastructure is an open infrastructure project, everybody can participate, basically almost everything is public. 
+Public weekly meetings, public Git repositories, public discussion, etc
+
+So I rarely directly promote sponsors but instead I regularly talk about their services in our day to day operation. And when a sponsor from time to time asks us how we use their services, I usually reuse documentation written for those.
+
+IMHO, It's usually a good sign if we don't talk about a sponsored service that we daily used because it means that it does the work :)
+
+Also kind reminder, as with every agreement between a group of people, you still can refuse things that you are not comfortable with. Otherwise, it wouldn't be an agreement. 
+A recent example of that was Docker asking in their sponsoring plan to explicitly document that the docker daemon is required to run images from Dockerhub.
+That's a false assumption that I am not ready to endorse.
+
+A sponsoring company that requires marketing content from an OSS project does not show that he cares about open source but that he accepts different kinds of compensation.
+When I have to provide marketing content, I try to see it as an opportunity to promote the Jenkins project but it's a distraction from the project goals.
+
+Fortunately enough, most Jenkins infrastructure sponsors don't fall into this category.
+
+== Offering:
+
+Companies sponsor by providing access to their offering in many different ways.
+
+In the first approach, the sponsor doesn't bother about money, they give you full access to everything for an unlimited or specific amount of time. 
+That's the easiest scenario but also a dangerous one. You create unknown vendor lock-in with the sponsor. It can be hard to evaluate the cost and you end up using services that you would have not used otherwise because it's expensive but in your case it's free so why not using.
+Then one day, the sponsor priorities change, and instead, they send a bill. It's not pleasant and forces you to re-evaluate the project prioritizes.
+
+In the second approach, the sponsor gives you a budget that you can use through their services offering. That's the one I prefer as I know how and why I am using a dedicated service. It's also valuable information when you do a budget risk assessment. If the sponsoring budget is not high enough, you may struggle during months with a lot of activities like October or March which can be mitigated with a yearly budget.
+
+More globally, it's important to regularly think about a backup solution, what would happen if sponsoring end abruptly? 
+
+! Don't forget those free services that everybody uses because it's free. Nothing last forever and they are many examples of this.
+
+One condition that I almost immediately decline is "exclusivity". Some sponsors ask it but an OSS project has huge inertia, with limited access to money. So it usually takes time to switch between different solutions.
+
+
+== Period:
+
+I found this topic the most challenging and the most unpredictable one.
+
+Every sponsorship plan has different rules here. It goes from: "No engagement, the contract can end at any moment" to "We'll re-evaluate the contract in three years". While I understand that companies don't want to engage in providing free access to unlimited resources for an unlimited amount of time. On the other side, it can take a significant amount of time to migrate between different solutions.
+And it's frustrating to have to replace or remove something that works great just because the sponsor has "budget constraint". They are way more interesting challenges to solve than migrating something that works well.
+
+For each sponsorship plan, I evaluate 
+
+  * How useful this sponsorship plan would be for the project
+  * What would it cost to the project to use something else? 
+  * How long will it take for the project to move to something else?
+  * How much effort will it take to the project to maintain the sponsoring relation?
+  * What is the risk for the sponsor to stop sponsoring?
+  * How trustable the sponsor is?
+
+I usually prefer sponsorship contracts that are automatically renewed yearly and longer periods for cloud vendors but it's not always possible
+
+## Conclusion
+
+The Jenkins project has up to 10 years old sponsors and infrastructure evolved a lot since then. Sponsoring companies aren’t evils, many things would not have been possible without them, but they aren’t angels neither. Each sponsorship has an associated hidden cost that you'll have to pay either today or tomorrow. You’ll better have to identify it today than tomorrow.
+
+Working on the sustainability of an open-source project like Jenkins is challenging, sometimes exhausting, but rewarding.
