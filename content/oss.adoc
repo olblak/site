@@ -1,0 +1,50 @@
+== Open Source
+
+Open Source Software is the backbone of my professional life. I learned a lot from others, I meet many great people, and I massively reused other people's works. So I am doing my best to contribute back.
+Here are some of my contributions.
+
+== Project 
+
+*Jenkins*
+
+https://www.jenkins.io/project/board/#infrastructure[Jenkins Infrastructure Officer]: 2019 -> Today
+
+I lead the infrastructure initiatives that provide services to the Jenkins community. I am also involved in other areas like project governance or outreach initiatives.
+
+*Updatecli*
+
+Updatecli is a tool that I created to continuously update everything. It's used to automatically update infrastructure by opening pull request when a third application release a new version.
+
+https://www.updatecli.io[Project Website]
+
+== Conference
+
+Technical conferences are one of the best ways to meet new people, so if you spot me in one of those, feel free to say "Hi", I am also there for that.
+
+*Attendee*
+
+My area of interest is everything related to open source and infrastructure. In the past, I attended events like Fosdem, Kubecon, Devoxxx, Jenkins/Devops World, CDcon, cfgmgmnt camp, DevOps Days, etc.
+
+*Organisor*
+
+When you can't reach a community that shares your interest, sometimes the best way is to make that community come to you by organizing something that will gather them.
+In the past, I helped to organize "Jenkins area meetups" and the FOSDEM CI/CD Devroom.
+
+*Speaker*
+
+Without considering myself an "experienced" speaker, I like to take any opportunities that I have to share what I learned.
+
+Here are some of the talks that I gave:
+
+* 2018
+** Jenkins World (US, San Francisco) - Want To Know How Jenkins Build Jenkins? With Brian Benz link:https://www.jenkins.io/blog/2018/09/14/speaker-blog-jenkins-builds-jenkins/[link] link:/slides/JWDW_2018_developing_and_delivering_jenkins_in_the_cloud.pdf[slides]
+** Jenkins Contributor Summit (US, San Francisco) - Jenkins Infrastructure Project Update
+
+* 2019
+** DevOps World (PT, Lisbon) - How Jenkins Builds and Delivers Jenkins in the Cloud - link:https://devopsworldjenkinsworld2019lisbo.sched.com/speaker/olivier_vernin.203qpihl[Link] link:/slides/how_jenkins_builds_and_delivers_jenkins_in_the_cloud.pdf[slides]
+** Jenkins Contributor Summit (PT- Lisbon) - Jenkins Infrastructure Project Update
+
+* 2020
+** Paris Jug (FR, Paris) - Release Jenkins, 15 ans plus tard - link:https://parisjug.org/xwiki/wiki/oldversion/view/Meeting/20200211[Description], link:https://www.youtube.com/watch?v=GDRFkI7TsOM[Video]
+** Jenkins Online Meetup (Online) - How Jenkins Build and Deliver Jenkins in the Cloud - link:https://www.youtube.com/watch?v=JRrasqPxsyk[Video]
+** Jenkins Contributor Summit (BE - Brussels) - Jenkins Infrastructure Project Update
