@@ -1,5 +1,6 @@
 ____
 I am the infrastructure officer for the Jenkins project and Senior Operations Engineer at CloudBees.  
-As a regular contributor to the Jenkins project, I work on a wide range of tasks from services reliability 
+As a regular contributor to the Jenkins project, I contribute to a wide range of things from services reliability
 to applications maintenance but my main interest remains around infrastructure automation.
+As the Jenkins infrastructure officer, I lead initiatives that provides reliable services to the Jenkins community.
 ____
