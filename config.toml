@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Olblak"
-    info = "Infra Developer"
+    info = ""
     description = "Me"
     keywords = "blog,developer,personal,infra"
     avatarurl = "images/avatar.jpg"
@@ -33,6 +33,22 @@ pygmentscodefencesguesssyntax = true
 
     math = false
     # custom_css = ["css/custom.css"]
+
+[[ params.role ]]
+  name = "Jenkins Infrastructure Officer"
+  weight = 1
+  url = "https://www.jenkins.io/project/board/#infrastructure"
+[[ params.role ]]
+  name = "Go Developer"
+  weight = 1
+  url = "https://www.updatecli.io"
+[[ params.role ]]
+  name = "Sysadmin/Ops/SRE/DevOps"
+  weight = 1
+[[ params.role ]]
+  name = "Speaker"
+  weight = 1
+  url = "/oss/"
 
 # Social links
 [[params.social]]
