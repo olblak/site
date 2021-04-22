@@ -48,3 +48,8 @@ Here are some of the talks that I gave:
 ** Paris Jug (FR, Paris) - Release Jenkins, 15 ans plus tard - link:https://parisjug.org/xwiki/wiki/oldversion/view/Meeting/20200211[Description], link:https://www.youtube.com/watch?v=GDRFkI7TsOM[Video]
 ** Jenkins Online Meetup (Online) - How Jenkins Build and Deliver Jenkins in the Cloud - link:https://www.youtube.com/watch?v=JRrasqPxsyk[Video]
 ** Jenkins Contributor Summit (BE - Brussels) - Jenkins Infrastructure Project Update
+
+Upcoming
+
+* 2021 
+** Cdcon (Online), Is Continous Delivery, a Chimera? - link:https://cdcon2021.sched.com/event/ioul/is-continuous-delivery-a-chimera-olivier-vernin-cloudbees[Description] 
