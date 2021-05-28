@@ -45,10 +45,6 @@ pygmentscodefencesguesssyntax = true
 [[ params.role ]]
   name = "Sysadmin/Ops/SRE/DevOps"
   weight = 1
-[[ params.role ]]
-  name = "Speaker"
-  weight = 1
-  url = "/oss/"
 
 # Social links
 [[params.social]]
