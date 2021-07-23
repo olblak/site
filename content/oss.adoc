@@ -52,4 +52,4 @@ Here are some of the talks that I gave:
 Upcoming
 
 * 2021 
-** Cdcon (Online), Is Continous Delivery, a Chimera? - link:https://cdcon2021.sched.com/event/ioul/is-continuous-delivery-a-chimera-olivier-vernin-cloudbees[Description] 
+** Cdcon (Online), Is Continous Delivery, a Chimera? - link:https://cdcon2021.sched.com/event/ioul/is-continuous-delivery-a-chimera-olivier-vernin-cloudbees[Description], link:https://www.youtube.com/watch?v=k4SPLApRVgE&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah&index=108[Video] 
