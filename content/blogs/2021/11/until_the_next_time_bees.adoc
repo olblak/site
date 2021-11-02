@@ -1,0 +1,50 @@
+---
+title: Until the next time, Bees
+type: posts
+date : 2021-11-02
+draft : false
+tags : ["bees"]
+categories : ["work"]
+---
+
+Time flies and this week is my last one with CloudBees.
+It's now time for me to close one of the best chapters of my professional life.
+
+Open source has special meaning to me. It shaped me, way before my professional career started. Back then I would never have imagined having my soon past experience.
+
+For the past 5 years, I had the chance to be paid to work full time on a major and successful Open Source project, Jenkins.
+I met some of the best engineers across the world and I had many opportunities to travel to meet them.
+I grew a lot as I endorsed different roles wherever my help was the most needed. My biggest role was to be the Jenkins Infrastructure officer.
+Leading an open infrastructure project of that size was a great opportunity and I am proud of what we achieved.
+Despite all the challenges that I faced, and the mistakes I did, the Jenkins community has always been a respectful environment that encouraged collaboration, like its founder mirror.
+
+I'll always remember a discussion I had very early with one contributor during Jenkins World 2017. I shared with him that I was stressed about not being able to answer every question that booth visitors would ask me.
+He told me "Don't worry, nobody knows everything, nor I do but If I can help to find the right person who knows the answer, then it would already be a huge step forward".
+
+On many more occasions, I could rely on the community to cool down my stress-o-meter.
+
+Thank you to all Jenkins contributors, despite my huge imposter syndrome, you made this journey memorable to me.
+
+During almost 5 years working for CloudBees, I had the chance to experience what a diverse environment truly means and how it would become important to me.
+Whatever the age, sex, religion, I evolved into a safe, funny, and wonderful team.
+We came from different countries, we had different backgrounds, different points of view but we nurtured our differences to contribute to both Jenkins and CloudBees success.
+That was not always easy to navigate between CloudBees and Jenkins project interests but that was full of learning.
+At CloudBees, I had the chance to work with many people who deeply inspired me, with true open-source DNA but more importantly a lot of integrity.
+
+Despite all the joy I had working in the Community Team at CloudBees for so long, I realized that I stopped growing as I used to be.
+I needed to find something that would kick me out of my comfort zone.
+I know that I am leaving a great team, with many friends but I also know that I found that next thing that I am super excited about.
+
+People around me know that I am a big fan of Linux, Golang, Kubernetes, and its whole ecosystem.
+I have an opportunity to work in that ecosystem. Very soon, I'll join a major open-source company as an engineering manager.
+I can't wait to start this new chapter and to meet my new colleagues.
+
+So do I change everything? No
+
+I'll still be seated on the same chair, just a new desk. +
+I'll still be involved in Open source, just another area. +
+I'll still be involved in conferences, just because I love it. +
+I'll still be involved in Jenkins, just a different scale. +
+I'll still be open to direct messages, just because open source is also about people. +
+
+Until the next time, Bees
