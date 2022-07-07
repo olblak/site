@@ -34,10 +34,11 @@ pygmentscodefencesguesssyntax = true
     math = false
     # custom_css = ["css/custom.css"]
 
+
 [[ params.role ]]
-  name = "Jenkins Infrastructure Officer"
+  name = "Engineering Manager"
   weight = 1
-  url = "https://www.jenkins.io/project/board/#infrastructure"
+  url = "https://www.suse.com/"
 [[ params.role ]]
   name = "Go Developer"
   weight = 1
