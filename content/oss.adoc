@@ -51,3 +51,9 @@ Here are some of the talks that I gave:
 
 * 2021 
 ** Cdcon (Online), Is Continous Delivery, a Chimera? - link:https://cdcon2021.sched.com/event/ioul/is-continuous-delivery-a-chimera-olivier-vernin-cloudbees[Description], link:https://www.youtube.com/watch?v=k4SPLApRVgE&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah&index=108[Video] 
+
+* 2022
+** Cdcon (US - Austin), Trust but Verify - link:https://www.youtube.com/watch?v=y18vO4pUCRs[Video]
+** Cdcon (US - Austin), Dependency Manager, Where the Fork are we? link:https://www.youtube.com/watch?v=157bsLD-0mM[Video]
+** Hack In The Wood (BE - Mons)
+** Belgium Kubernetes Meetup (BE - Brussels) 
