@@ -1,6 +1,7 @@
 ____
-I am the infrastructure officer for the Jenkins project and Senior Operations Engineer at CloudBees.  
-As a regular contributor to the Jenkins project, I contribute to a wide range of things from services reliability
-to applications maintenance but my main interest remains around infrastructure automation.
-As the Jenkins infrastructure officer, I lead initiatives that provides reliable services to the Jenkins community.
+Currently working for SUSE as an engineering manager on all things related to Kubernetes.
+Builder of https://github.com/updatecli/updatecli[Updatecli]
+Former infrastructure officer on the Jenkins project and former @CloudBees.
+
+I have a wide range of interest from team management to software development.
 ____
