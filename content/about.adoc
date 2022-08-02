@@ -1,7 +1,6 @@
 ____
-Currently working for SUSE as an engineering manager on all things related to Kubernetes.
-Builder of https://github.com/updatecli/updatecli[Updatecli]
-Former infrastructure officer on the Jenkins project and former @CloudBees.
-
-I have a wide range of interest from team management to software development.
+Engineering Manager at SUSE, working on Kubernetes's related projects such as Rancher.
+Builder of https://github.com/updatecli/updatecli[Updatecli], and 
+Former Infrastructure officer of the https://jenkins.io[Jenkins project].
+Olivier has extensive experience in building OSS tooling around infrastructure automation.
 ____
