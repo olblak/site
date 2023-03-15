@@ -57,3 +57,7 @@ Here are some of the talks that I gave:
 ** Cdcon (US - Austin), Dependency Manager, Where the Fork are we? link:https://www.youtube.com/watch?v=157bsLD-0mM[Video]
 ** Hack In The Wood (BE - Mons)
 ** Belgium Kubernetes Meetup (BE - Brussels) 
+
+* 2023
+** FOSDEM(BE - Brussels), Continuous Update Everything - link:https://fosdem.org/2023/schedule/event/continuous_update_everything[Video]
+** Cfgmgmnt Camp(BE - Ghent), Cloud Native Dependencies - link:https://www.youtube.com/watch?v=BIBjS6NgNn8[Video]
