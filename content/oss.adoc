@@ -61,3 +61,5 @@ Here are some of the talks that I gave:
 * 2023
 ** FOSDEM(BE - Brussels), Continuous Update Everything - link:https://fosdem.org/2023/schedule/event/continuous_update_everything[Video]
 ** Cfgmgmnt Camp(BE - Ghent), Cloud Native Dependencies - link:https://www.youtube.com/watch?v=BIBjS6NgNn8[Video]
+** SUSECON (Online), A prescriptive approach to application development with Epinio 
+** Civo Navigate (London), Onward a continuously updated kubernetes marketplace
