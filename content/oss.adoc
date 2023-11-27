@@ -7,9 +7,9 @@ Here are some of my contributions.
 
 *Jenkins*
 
-https://www.jenkins.io/project/board/#infrastructure[Jenkins Infrastructure Officer]: 2019 -> Today
+https://www.jenkins.io/project/board/#infrastructure[Jenkins Infrastructure Officer]: 2019 -> 2021
 
-I lead the infrastructure initiatives that provide services to the Jenkins community. I am also involved in other areas like project governance or outreach initiatives.
+I led the infrastructure initiatives that provide services to the Jenkins community. I was also involve in other areas like project governance or outreach initiatives.
 
 *Updatecli*
 
