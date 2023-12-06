@@ -10,6 +10,10 @@ on:
     # Run every hour
     - cron: '0 * * * *'
 
+permissions:
+  contents: "write"
+  pull-requests: "write"
+
 jobs:
   updatecli:
     runs-on: ubuntu-latest
@@ -23,22 +27,15 @@ jobs:
           version: "v0.66.1"
 
       - name: "Run updatecli in dryrun"
-        run: "updatecli compose diff --experimental --clean=true"
+        run: "updatecli compose diff --experimental"
         env:
           GITHUB_ACTOR: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: tibdex/github-app-token@v2.1
-        id: generate_token
-        if: github.ref == 'refs/heads/master'
-        with:
-          app_id: ${{ secrets.UPDATECLIBOT_APP_ID }}
-          private_key: ${{ secrets.UPDATECLIBOT_APP_PRIVKEY }}
-
       - name: "Run updatecli"
         if: github.ref == 'refs/heads/master'
-        run: "updatecli compose apply --experimental --clean=true"
+        run: "updatecli compose apply --experimental"
         env:
-          GITHUB_ACTOR: ${{ secrets.UPDATECLI_BOT_GITHUB_ACTOR }}
-          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
+          GITHUB_ACTOR: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
