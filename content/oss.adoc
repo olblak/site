@@ -36,34 +36,34 @@ Without considering myself an "experienced" speaker, I like to take any opportun
 
 Here are some of the talks that I gave:
 
-* 2018
-** Jenkins World (US, San Francisco) - Want To Know How Jenkins Build Jenkins? With Brian Benz link:https://www.jenkins.io/blog/2018/09/14/speaker-blog-jenkins-builds-jenkins/[link] link:/slides/JWDW_2018_developing_and_delivering_jenkins_in_the_cloud.pdf[slides]
-** Jenkins Contributor Summit (US, San Francisco) - Jenkins Infrastructure Project Update
+* 2024
+** Devops Days(BE - Antwerpen), Continuously Update Everything - link:https://devopsdays.org/events/2024-antwerp/program/continuously-update-everything[link]
+** Continuous Delivery Mini Summit (AU - Vienna) - link:https://cd.foundation/cd-mini-summit-vienna/[link]
 
-* 2019
-** DevOps World (PT, Lisbon) - How Jenkins Builds and Delivers Jenkins in the Cloud - link:https://devopsworldjenkinsworld2019lisbo.sched.com/speaker/olivier_vernin.203qpihl[Link] link:/slides/how_jenkins_builds_and_delivers_jenkins_in_the_cloud.pdf[slides]
-** Jenkins Contributor Summit (PT- Lisbon) - Jenkins Infrastructure Project Update
+* 2023
+** FOSDEM(BE - Brussels), Continuous Update Everything - link:https://fosdem.org/2023/schedule/event/continuous_update_everything[Video]
+** Cfgmgmnt Camp(BE - Ghent), Cloud Native Dependencies - link:https://www.youtube.com/watch?v=BIBjS6NgNn8[Video]
+** SUSECON (Online), A prescriptive approach to application development with Epinio
+** Civo Navigate (London), Onward a continuously updated kubernetes marketplace - link:https://youtu.be/B2wmA627E4w[Video]
+
+* 2022
+** Cdcon (US - Austin), Trust but Verify - link:https://www.youtube.com/watch?v=y18vO4pUCRs[Video]
+** Cdcon (US - Austin), Dependency Manager, Where the Fork are we? link:https://www.youtube.com/watch?v=157bsLD-0mM[Video]
+** Hack In The Wood (BE - Mons)
+** Belgium Kubernetes Meetup (BE - Brussels)
+
+* 2021
+** Cdcon (Online), Is Continous Delivery, a Chimera? - link:https://cdcon2021.sched.com/event/ioul/is-continuous-delivery-a-chimera-olivier-vernin-cloudbees[Description], link:https://www.youtube.com/watch?v=k4SPLApRVgE&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah&index=108[Video]
 
 * 2020
 ** Paris Jug (FR, Paris) - Release Jenkins, 15 ans plus tard - link:https://parisjug.org/xwiki/wiki/oldversion/view/Meeting/20200211[Description], link:https://www.youtube.com/watch?v=GDRFkI7TsOM[Video]
 ** Jenkins Online Meetup (Online) - How Jenkins Build and Deliver Jenkins in the Cloud - link:https://www.youtube.com/watch?v=JRrasqPxsyk[Video]
 ** Jenkins Contributor Summit (BE - Brussels) - Jenkins Infrastructure Project Update
 
-* 2021 
-** Cdcon (Online), Is Continous Delivery, a Chimera? - link:https://cdcon2021.sched.com/event/ioul/is-continuous-delivery-a-chimera-olivier-vernin-cloudbees[Description], link:https://www.youtube.com/watch?v=k4SPLApRVgE&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah&index=108[Video] 
+* 2019
+** DevOps World (PT, Lisbon) - How Jenkins Builds and Delivers Jenkins in the Cloud - link:https://devopsworldjenkinsworld2019lisbo.sched.com/speaker/olivier_vernin.203qpihl[Link] link:/slides/how_jenkins_builds_and_delivers_jenkins_in_the_cloud.pdf[slides]
+** Jenkins Contributor Summit (PT- Lisbon) - Jenkins Infrastructure Project Update
 
-* 2022
-** Cdcon (US - Austin), Trust but Verify - link:https://www.youtube.com/watch?v=y18vO4pUCRs[Video]
-** Cdcon (US - Austin), Dependency Manager, Where the Fork are we? link:https://www.youtube.com/watch?v=157bsLD-0mM[Video]
-** Hack In The Wood (BE - Mons)
-** Belgium Kubernetes Meetup (BE - Brussels) 
-
-* 2023
-** FOSDEM(BE - Brussels), Continuous Update Everything - link:https://fosdem.org/2023/schedule/event/continuous_update_everything[Video]
-** Cfgmgmnt Camp(BE - Ghent), Cloud Native Dependencies - link:https://www.youtube.com/watch?v=BIBjS6NgNn8[Video]
-** SUSECON (Online), A prescriptive approach to application development with Epinio 
-** Civo Navigate (London), Onward a continuously updated kubernetes marketplace - link:https://youtu.be/B2wmA627E4w[Video]
-
-* 2024
-** Devops Days(BE - Antwerpen), Continuously Update Everything - link:https://devopsdays.org/events/2024-antwerp/program/continuously-update-everything[link]
-** Continuous Delivery Mini Summit (AU - Vienna) - link:https://cd.foundation/cd-mini-summit-vienna/[link]
+* 2018
+** Jenkins World (US, San Francisco) - Want To Know How Jenkins Build Jenkins? With Brian Benz link:https://www.jenkins.io/blog/2018/09/14/speaker-blog-jenkins-builds-jenkins/[link] link:/slides/JWDW_2018_developing_and_delivering_jenkins_in_the_cloud.pdf[slides]
+** Jenkins Contributor Summit (US, San Francisco) - Jenkins Infrastructure Project Update
