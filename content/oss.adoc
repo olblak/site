@@ -63,3 +63,7 @@ Here are some of the talks that I gave:
 ** Cfgmgmnt Camp(BE - Ghent), Cloud Native Dependencies - link:https://www.youtube.com/watch?v=BIBjS6NgNn8[Video]
 ** SUSECON (Online), A prescriptive approach to application development with Epinio 
 ** Civo Navigate (London), Onward a continuously updated kubernetes marketplace - link:https://youtu.be/B2wmA627E4w[Video]
+
+* 2024
+** Devops Days(BE - Antwerpen), Continuously Update Everything - link:https://devopsdays.org/events/2024-antwerp/program/continuously-update-everything[link]
+** Continuous Delivery Mini Summit (AU - Vienna) - link:https://cd.foundation/cd-mini-summit-vienna/[link]
