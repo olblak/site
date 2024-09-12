@@ -11,8 +11,6 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# disqusShortname = "olblak"
-
 [security]
   enableInlineShortcodes = false
   [security.exec]
