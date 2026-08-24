@@ -1,5 +1,5 @@
 ____
-Engineering Manager at SUSE, working on Kubernetes's related projects such as Rancher.
+Senior Engineering Manager at SUSE, working on Kubernetes's related projects such as Rancher, Kubewarden, or Neuvector.
 Builder of https://github.com/updatecli/updatecli[Updatecli], and 
 Former Infrastructure officer of the https://jenkins.io[Jenkins project].
 Olivier has extensive experience in building OSS tooling around infrastructure automation.
