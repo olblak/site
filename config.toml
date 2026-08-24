@@ -12,41 +12,48 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [security]
-  enableInlineShortcodes = false
-  [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$','^git$', '^postcss$', '^asciidoctor$']
-    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
-  [security.funcs]
-    getenv = ['^HUGO_']
-  [security.http]
-    methods = ['(?i)GET|POST']
-    urls = ['.*']
+enableInlineShortcodes = false
+[security.exec]
+allow = [
+  '^dart-sass-embedded$',
+  '^go$',
+  '^npx$',
+  '^git$',
+  '^postcss$',
+  '^asciidoctor$',
+]
+osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+[security.funcs]
+getenv = ['^HUGO_']
+[security.http]
+methods = ['(?i)GET|POST']
+urls = ['.*']
 
 
 [params]
-    author = "Olblak"
-    info = ""
-    description = "Me"
-    keywords = "blog,developer,personal,infra"
-    avatarurl = "images/avatar.jpg"
+author = "Olblak"
+info = ""
+description = "Me"
+keywords = "blog,developer,personal,infra"
+avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "FOSS Aficionado"
+footercontent = "FOSS Aficionado"
 
-    hidecredits = false
-    hidecopyright = false
-    hidefooter = false
+hidecredits = false
+hidecopyright = false
+hidefooter = false
 
-    rtl = false
+rtl = false
 
-    math = false
-    # custom_css = ["css/custom.css"]
+math = false
+# custom_css = ["css/custom.css"]
 
 
 [[ params.role ]]
-  name = "Engineering Manager"
+  name = "Senior Engineering Manager"
   weight = 1
   url = "https://www.suse.com/"
 [[ params.role ]]
@@ -59,44 +66,44 @@ pygmentscodefencesguesssyntax = true
 
 # Social links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/olblak"
+name = "Github"
+icon = "fab fa-github fa-2x"
+weight = 1
+url = "https://github.com/olblak"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 4
-    url = "https://twitter.com/0lblak/"
+name = "Linkedin"
+icon = "fab fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/overnin/"
 [[params.social]]
-    name = "Linkedin"
-    icon = "fab fa-linkedin fa-2x"
-    weight = 3
-    url = "https://www.linkedin.com/in/overnin/"
+name = "Bluesky"
+icon = "fab fa-bluesky fa-2x"
+weight = 4
+url = "https://bsky.app/profile/olblak.com"
 [[params.social]]
-    name = "Mastodon"
-    icon = "fab fa-mastodon fa-2x"
-    weight = 2
-    url = "https://fosstodon.org/@olblak"
+name = "Mastodon"
+icon = "fab fa-mastodon fa-2x"
+weight = 3
+url = "https://fosstodon.org/@olblak"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/blogs/"
+name = "Blog"
+weight = 1
+url = "/blogs/"
 
 
 [[menu.main]]
-    name = "Contact"
-    weight = 4
-    url  = "/contact"
+name = "Contact"
+weight = 4
+url = "/contact"
 
 [[menu.main]]
-    name = "About"
-    weight = 3
-    url  = "/about"
+name = "About"
+weight = 3
+url = "/about"
 
 [[menu.main]]
-    name = "OSS"
-    weight = 2
-    url  = "/oss"
+name = "OSS"
+weight = 2
+url = "/oss"
