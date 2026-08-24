@@ -1,13 +1,17 @@
-[NOTE]
-====
-* Creator and maintainer of Updatecli
-* Jenkins Infrastructure Officer (2019–2021)
-* Speaker at FOSDEM, Devoxx, CDCon, DevOps World, and CfgMgmtCamp
-* Organizer of the FOSDEM CI/CD Devroom
-* Professional contributor to Rancher, Kubewarden, and NeuVector
-====
+____
+Creator and maintainer of Updatecli
 
-== Open Source
+Jenkins Infrastructure Officer (2019–2021)
+
+Speaker at FOSDEM, Devoxx, CDCon, DevOps World, and CfgMgmtCamp
+
+Organizer of the FOSDEM CI/CD Devroom
+
+Professional contributor to Rancher, Kubewarden, and NeuVector
+
+____
+
+== OSS
 
 Open Source Software has shaped my career. Over the years, I've contributed as a maintainer, project leader, conference organizer, and speaker while building tools used by communities and organizations around the world.
 Here are some of my contributions.
@@ -82,7 +86,6 @@ Here are some of the talks that I gave:
 * 2018
 ** Jenkins World (US, San Francisco) - Want To Know How Jenkins Build Jenkins? With Brian Benz link:https://www.jenkins.io/blog/2018/09/14/speaker-blog-jenkins-builds-jenkins/[link] link:/slides/JWDW_2018_developing_and_delivering_jenkins_in_the_cloud.pdf[slides]
 ** Jenkins Contributor Summit (US, San Francisco) - Jenkins Infrastructure Project Update
-
 
 == Work
 
